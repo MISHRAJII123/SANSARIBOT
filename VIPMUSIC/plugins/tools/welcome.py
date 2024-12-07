@@ -172,7 +172,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
             )
             button_text = "❍ 𝐎ᴡɴᴇʀ ❍"
             add_button_text = "❍ sᴜᴩᴩᴏʀᴛ ❍"
-            deep_link = f"https://t.me/Azad_parinda_0"
+            deep_link = f"https://t.me/bsebquiz12"
             add_link = f"https://t.me/allsubjectpdf0"
             temp.MELCOW[f"welcome-{member.chat.id}"] = await app.send_photo(
                 member.chat.id,
@@ -183,7 +183,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 ❍ 𝐔sᴇʀɴᴀᴍᴇ ➥  @{user.username}
 ❍ 𝐔sᴇʀ 𝐈ᴅ ➥  {user.id}
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ➥ ๛[❤️‍🔥 • 𝛚𝛐𝛚 • ❤️‍🔥](https://t.me/Azad_parinda_0)
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ ➥ ๛[❤️‍🔥 • 𝛚𝛐𝛚 • ❤️‍🔥](https://t.me/bsebquiz12)
 ╚════════════════.✵.═╝
 """,
                 reply_markup=InlineKeyboardMarkup([
